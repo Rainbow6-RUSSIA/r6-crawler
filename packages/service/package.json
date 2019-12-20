@@ -1,0 +1,26 @@
+{
+  "name": "service",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "BadCoder1337 <anton.tiz.musin@gmail.com>",
+  "homepage": "https://github.com/Rainbow6-RUSSIA/r6-crawler#readme",
+  "license": "AGPL-3.0-or-later",
+  "main": "build/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rainbow6-RUSSIA/r6-crawler.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Rainbow6-RUSSIA/r6-crawler/issues"
+  }
+}

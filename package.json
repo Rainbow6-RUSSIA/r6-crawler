@@ -1,0 +1,17 @@
+{
+  "name": "@r6-crawler/r6-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Rainbow6-RUSSIA/r6-crawler",
+  "author": "BadCoder1337 <anton.tiz.musin@gmail.com>",
+  "license": "AGPL",
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.19.0",
+    "r6api.js": "^1.1.0",
+    "typescript": "^3.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21"
+  }
+}
