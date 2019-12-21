@@ -3,7 +3,8 @@
     "rootDir": "src",
     "outDir": "build",
     "baseUrl": ".",
-    "composite": true
+    "composite": true,
+    "esModuleInterop": true
   },
   "extends": "../tsconfig.json",
 }
