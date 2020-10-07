@@ -35,7 +35,8 @@
     "@types/concat-stream": "^1.6.0",
     "@types/node": "^12.12.21",
     "@types/node-fetch": "^2.5.4",
-    "@types/puppeteer": "^2.0.0"
+    "@types/puppeteer": "^2.0.0",
+    "@types/ws": "^6.0.4"
   },
   "dependencies": {
     "clime": "^0.5.10",
